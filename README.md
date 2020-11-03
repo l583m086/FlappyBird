@@ -1,4 +1,4 @@
-# EECS 448 - PROJECT 1
+# Flappy Bird
 * Repository for EECS 368 Project 1
 
 ## Installing
